@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.11.0",
+    "mineflayer-pathfinder": "^1.0.0",
+    "vec3": "^0.1.7"
+  }
+}
